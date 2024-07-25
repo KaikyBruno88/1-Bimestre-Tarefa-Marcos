@@ -1,0 +1,22 @@
+.CursoInfor{
+    text-align: center;
+    font-size: 50px;
+     
+}
+h2{
+  font-size: 25px;
+}
+a{
+    display: flex; 
+    justify-content: center;
+    text-decoration: none;
+}
+.LoremPrimeiros{
+    align-items:center;
+    text-align: justify;
+    font-size: 20px;
+     
+}
+.Voltar_Inicio{
+    text-decoration: underline;
+}
